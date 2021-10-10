@@ -11,3 +11,6 @@ Halaman Admin :
 5.	Admin dapat mengelola data kategori
 6.	Admin dapat menginput data produk 
 7.	Admin dapat mengelola data produk
+
+Use case diagram aplikasi toko serbaguna bagian user
+![Use Case Diagram (1)](https://user-images.githubusercontent.com/91949180/136696559-c735bbad-9de3-48a1-9a01-6685366f1ed1.png)
