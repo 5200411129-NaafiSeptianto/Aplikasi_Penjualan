@@ -36,4 +36,7 @@ INI ADALAH GUI APLIKASI TOKO SERBAGUNA
 ![18](https://user-images.githubusercontent.com/91949629/136698440-48bb5cd7-9e70-4a88-a43f-f7a4331ac409.png)
 ![19](https://user-images.githubusercontent.com/91949629/136698447-e90f6c7a-a7d2-40f3-b7d3-36e977f7d13b.png)
 ![20](https://user-images.githubusercontent.com/91949629/136698456-56f6bb78-1808-4397-adbd-ead99cf57459.png)
-![21](https://user-images.githubusercontent.com/91949629/136698465-81dff068-717a-4269-a04e-84fe84204c02.png)
+![21](https://user-images.githubusercontent.com/91949629/136698465-81dff068-717a-4269-a04e-84fe84204c02.png) 
+
+Logical Record Structure (LRS) aplikasi toko serbaguna
+![LRS3](https://user-images.githubusercontent.com/91952850/136703959-4dca5cf7-aeb2-4917-9c77-4a773906508a.jpg)
