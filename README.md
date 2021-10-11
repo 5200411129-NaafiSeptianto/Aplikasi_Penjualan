@@ -16,7 +16,7 @@ Use case diagram aplikasi toko serbaguna bagian user
 ![Use Case Diagram (1)](https://user-images.githubusercontent.com/91949180/136696559-c735bbad-9de3-48a1-9a01-6685366f1ed1.png)
 
 Entity Relationship Diagram
-
+![erdtoko](https://user-images.githubusercontent.com/84367846/136724488-db74c15b-55b0-4bd9-8205-adeb9bf4d4c3.png)
 
 INI ADALAH GUI APLIKASI TOKO SERBAGUNA
 ![1](https://user-images.githubusercontent.com/91949629/136697237-8beacd61-d0b8-4350-8be3-9e752a686f2b.png)
