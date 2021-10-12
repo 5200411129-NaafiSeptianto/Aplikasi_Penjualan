@@ -1,0 +1,2 @@
+Black box testing atau lebih sering dikenal dengan sebutan pengujian fungsional merupakan metode pengujian perangkat
+lunak yang digunakan untuk menguji perangkat lunak tanpa mengetahui struktur internal kode atau program
