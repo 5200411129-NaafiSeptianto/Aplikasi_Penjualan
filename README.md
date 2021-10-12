@@ -52,5 +52,12 @@ C. Code
 Program aplikasi toko online ini dirancang dan dibangun dengan menggunakan Bahasa pemrograman PHP dan database MySQL
 D. Testing
 Black box testing atau lebih sering dikenal dengan sebutan pengujian fungsional merupakan metode pengujian perangkat lunak yang digunakan untuk menguji perangkat lunak tanpa mengetahui struktur internal kode atau program
+E.Support
+Pada program aplikasi penjualan tokoserbaguna ini memerlukan spesifikasi yang harus dimiliki pada komputer yang akan dijalankan program ini.
+
+![22](https://user-images.githubusercontent.com/91949629/136937700-bb748521-52f0-4a8a-a74c-76d753bb1f10.png)
+
+
+
 
 
