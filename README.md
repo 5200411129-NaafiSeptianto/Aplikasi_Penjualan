@@ -18,6 +18,9 @@ Use case diagram aplikasi toko serbaguna bagian user
 Entity Relationship Diagram
 ![erdtoko](https://user-images.githubusercontent.com/84367846/136724488-db74c15b-55b0-4bd9-8205-adeb9bf4d4c3.png)
 
+Logical Record Structure (LRS) 
+![LRS3](https://user-images.githubusercontent.com/91952850/136705601-fb200294-55fc-4465-ab4c-051b5c12becf.jpg)
+
 INI ADALAH GUI APLIKASI TOKO SERBAGUNA
 ![1](https://user-images.githubusercontent.com/91949629/136697237-8beacd61-d0b8-4350-8be3-9e752a686f2b.png)
 ![2](https://user-images.githubusercontent.com/91949629/136697282-456111b4-3b1a-4106-aef7-25e0afa51bb8.png)
@@ -41,5 +44,4 @@ INI ADALAH GUI APLIKASI TOKO SERBAGUNA
 ![20](https://user-images.githubusercontent.com/91949629/136698456-56f6bb78-1808-4397-adbd-ead99cf57459.png)
 ![21](https://user-images.githubusercontent.com/91949629/136698465-81dff068-717a-4269-a04e-84fe84204c02.png)
 
-Logical Record Structure (LRS) pada toko serbaguna
-![LRS3](https://user-images.githubusercontent.com/91952850/136705601-fb200294-55fc-4465-ab4c-051b5c12becf.jpg)
+
