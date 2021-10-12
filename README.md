@@ -56,7 +56,7 @@ Black box testing atau lebih sering dikenal dengan sebutan pengujian fungsional 
 E. Support
 Pada program aplikasi penjualan tokoserbaguna ini memerlukan spesifikasi yang harus dimiliki pada komputer yang akan dijalankan program ini.
 
-![22](https://user-images.githubusercontent.com/91949629/136937700-bb748521-52f0-4a8a-a74c-76d753bb1f10.png)
+![22](https://user-images.githubusercontent.com/91949629/136965414-9dad2e96-8a6f-4c21-a70b-2154a7ff28c3.png)
 
 
 
