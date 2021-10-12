@@ -1,3 +1,11 @@
+Kelompok 7
+Nama Anggota : 
+1. Allieffa Salsabilla Pradisthi – 5200411107 
+2. Praja Sendi Wardanu – 5200411112 
+3. Roselilie Simbulan – 5200411120
+4. Naafi Septianto - 5200411129 
+
+
 # Aplikasi_Penjualan
 Dibuat menggunakan metode waterfall
 
@@ -50,6 +58,7 @@ Berikut ini adalah GUI dari aplikasi Toko Serbaguna
 
 C. Code 
 Program aplikasi toko online ini dirancang dan dibangun dengan menggunakan Bahasa pemrograman PHP dan database MySQL
+
 D. Testing
 Black box testing atau lebih sering dikenal dengan sebutan pengujian fungsional merupakan metode pengujian perangkat lunak yang digunakan untuk menguji perangkat lunak tanpa mengetahui struktur internal kode atau program
 
