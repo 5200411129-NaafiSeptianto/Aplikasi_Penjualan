@@ -48,4 +48,9 @@ Berikut ini adalah GUI dari aplikasi Toko Serbaguna
 ![20](https://user-images.githubusercontent.com/91949629/136698456-56f6bb78-1808-4397-adbd-ead99cf57459.png)
 ![21](https://user-images.githubusercontent.com/91949629/136698465-81dff068-717a-4269-a04e-84fe84204c02.png)
 
+C. Code 
+Program aplikasi toko online ini dirancang dan dibangun dengan menggunakan Bahasa pemrograman PHP dan database MySQL
+D. Testing
+Black box testing atau lebih sering dikenal dengan sebutan pengujian fungsional merupakan metode pengujian perangkat lunak yang digunakan untuk menguji perangkat lunak tanpa mengetahui struktur internal kode atau program
+
 
