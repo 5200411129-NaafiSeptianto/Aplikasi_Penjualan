@@ -12,7 +12,7 @@ Halaman Admin :
 6.	Admin dapat menginput data produk 
 7.	Admin dapat mengelola data produk
 
-Use case diagram aplikasi Toko Serbaguna bagian user
+Use case diagram aplikasi Toko Serbaguna
 
 ![Use Case Diagram (1)](https://user-images.githubusercontent.com/91949180/136696559-c735bbad-9de3-48a1-9a01-6685366f1ed1.png)
 
