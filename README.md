@@ -61,6 +61,8 @@ Program aplikasi toko online ini dirancang dan dibangun dengan menggunakan Bahas
 
 D. Testing
 Black box testing atau lebih sering dikenal dengan sebutan pengujian fungsional merupakan metode pengujian perangkat lunak yang digunakan untuk menguji perangkat lunak tanpa mengetahui struktur internal kode atau program
+![testing](https://user-images.githubusercontent.com/84367846/137087291-07247350-c385-4405-80ce-102064e89e7f.PNG)
+
 
 E. Support
 Pada program aplikasi penjualan tokoserbaguna ini memerlukan spesifikasi yang harus dimiliki pada komputer yang akan dijalankan program ini.
