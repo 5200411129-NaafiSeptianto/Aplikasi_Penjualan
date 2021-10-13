@@ -1,1 +1,1 @@
-Program aplikasi toko online ini dirancang dan dibangun dengan menggunakan Bahasa pemrograman PHP dan database MySQL
+Program aplikasi toko online ini dirancang dan dibangun dengan menggunakan Bahasa pemrograman PHP dan database MySQL XAMPP
